@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harry Ashenden</h1>
 <h3 align="center">A full stack software engineer</h3>
 
-- 👨‍💻 My projects are available at [https://harryashenden.netlify.app/](https://harryashenden.netlify.app/)
+- 👨‍💻 Some of my projects are available at [https://harryashenden.netlify.app/](https://harryashenden.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
