@@ -2,6 +2,7 @@
 <h3 align="center">A full stack software engineer</h3>
 
 - 👨‍💻 Some of my projects are available at [https://harryashenden.netlify.app/](https://harryashenden.netlify.app/)
+- I'm currently working on a full stack recipie app using the MERN stack and intergrating web scrapers
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
