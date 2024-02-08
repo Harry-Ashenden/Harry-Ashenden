@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harry Ashenden</h1>
 <h3 align="center">A full stack software engineer</h3>
 
-- 🔭 I’m currently working on [easyRecipes](https://github.com/Harry-Ashenden/easyRecipes)
+- 🔭 I’m currently working on [easyRecipes](https://github.com/Harry-Ashenden/easyRecipes), a full-stack recipe app featuring a web scraper API.
 
 - 👨‍💻 My projects are available on [my page](https://harryashenden.netlify.app/)
 
