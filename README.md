@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harry Ashenden</h1>
 <h3 align="center">A full stack software engineer</h3>
 
-- 🔭 I’m currently working on [easyRecipes](https://github.com/Harry-Ashenden/easyRecipes), a full-stack recipe app featuring a web scraper API.
+- 🔭 I’m currently working on [easyRecipes-V2](https://github.com/Harry-Ashenden/easyRecipes-v2). This will be a new version of my previous full-stack recipe app featuring a web scraper API. It will contain more features such a biometric authentication, recipe search, and offline mode. I am also changing the tech stack to include React instead of EJS.
 
 - 👨‍💻 My projects are available on [my page](https://harryashenden.netlify.app/)
 
